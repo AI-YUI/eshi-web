@@ -26,7 +26,7 @@ disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
   name:           	 Minjun Li
-  url:            	 localhost
+  url:            	 https://ai-yui.github.io/eshi-web/
 
 # Server
 destination:      	 ./_site
